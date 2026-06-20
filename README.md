@@ -460,6 +460,7 @@ Harness Engineering
 | 名称 | 说明 | Stars |
 |------|------|-------|
 | [**claude-code-harness**](https://github.com/Chachamaru127/claude-code-harness) | Claude Code 专用开发 harness — Plan → Work → Review 自动循环 | ![Stars](https://img.shields.io/github/stars/Chachamaru127/claude-code-harness?style=flat-square&logo=github) |
+| [**ax**](https://github.com/Necmttn/ax) | 本地 AI 编码智能体可观测图谱 — 汇总 Claude Code、Codex 等会话的成本、技能、路由与 Hooks 信号 | ![Stars](https://img.shields.io/github/stars/Necmttn/ax?style=flat-square&logo=github) |
 | [**Conductor**](https://github.com/google-gemini/conductor) | Google 官方 Gemini CLI 扩展 — Context-Driven Development 工作流 | ![Stars](https://img.shields.io/github/stars/google-gemini/conductor?style=flat-square&logo=github) |
 | [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files) | Manus 风格持久化 Markdown 规划技能 — 跨 session 状态管理 | ![Stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square&logo=github) |
 | [**context-mode**](https://github.com/mksglu/context-mode) | 上下文虚拟化层 — 智能体运行时的上下文管理 | ![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square&logo=github) |
