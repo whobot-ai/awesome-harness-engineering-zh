@@ -459,6 +459,7 @@ Harness Engineering
 
 | 名称 | 说明 | Stars |
 |------|------|-------|
+| [**OpenAgentRelay**](https://github.com/ShakespeareLabs/open-agent-relay) | 受信局域网 Agent 调用边界 — 每次请求启动已有本地 Agent 或自动化，提供密钥鉴权、目标校验、JSON 输出与明确退出码，源码和凭证留在发布方机器 | ![Stars](https://img.shields.io/github/stars/ShakespeareLabs/open-agent-relay?style=flat-square&logo=github) |
 | [**claude-code-harness**](https://github.com/Chachamaru127/claude-code-harness) | Claude Code 专用开发 harness — Plan → Work → Review 自动循环 | ![Stars](https://img.shields.io/github/stars/Chachamaru127/claude-code-harness?style=flat-square&logo=github) |
 | [**Conductor**](https://github.com/google-gemini/conductor) | Google 官方 Gemini CLI 扩展 — Context-Driven Development 工作流 | ![Stars](https://img.shields.io/github/stars/google-gemini/conductor?style=flat-square&logo=github) |
 | [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files) | Manus 风格持久化 Markdown 规划技能 — 跨 session 状态管理 | ![Stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square&logo=github) |
