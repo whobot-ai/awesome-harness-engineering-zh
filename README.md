@@ -551,6 +551,7 @@ Harness Engineering 作为一个新兴领域，学术研究正在快速追赶工
 | **多智能体系统** | Harness 的核心架构模式之一 | Multi-Agent Software Development、MetaGPT |
 | **LLM 可靠性与对齐** | Harness 存在的根本原因 | Constitutional AI、RLHF |
 | **自主软件工程** | Harness Engineering 的应用领域 | SWE-bench、SWE-agent |
+| **浏览器与计算机使用** | Harness 的环境控制与验证层 | [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench)：283 个在线任务、163 个网站，含请求拦截与五层执行证据 |
 | **人机协作** | Harness 的交互设计层 | Human-AI Collaboration in SE |
 
 ---
