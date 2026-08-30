@@ -463,6 +463,7 @@ Harness Engineering
 | [**Conductor**](https://github.com/google-gemini/conductor) | Google 官方 Gemini CLI 扩展 — Context-Driven Development 工作流 | ![Stars](https://img.shields.io/github/stars/google-gemini/conductor?style=flat-square&logo=github) |
 | [**planning-with-files**](https://github.com/OthmanAdi/planning-with-files) | Manus 风格持久化 Markdown 规划技能 — 跨 session 状态管理 | ![Stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square&logo=github) |
 | [**context-mode**](https://github.com/mksglu/context-mode) | 上下文虚拟化层 — 智能体运行时的上下文管理 | ![Stars](https://img.shields.io/github/stars/mksglu/context-mode?style=flat-square&logo=github) |
+| [**SandBase Harness**](https://github.com/sandbaseai/sandbase-harness) | 本地优先的 Agent 运行时 — 持久化会话、MCP 工具治理、审批、审计回放与可替换沙箱后端 | ![Stars](https://img.shields.io/github/stars/sandbaseai/sandbase-harness?style=flat-square&logo=github) |
 | [**lossless-claw**](https://github.com/Martian-Engineering/lossless-claw) | 无损上下文管理 — 防止长对话中的信息丢失 | ![Stars](https://img.shields.io/github/stars/Martian-Engineering/lossless-claw?style=flat-square&logo=github) |
 
 ### 记忆与状态持久化
