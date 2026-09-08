@@ -552,6 +552,7 @@ Harness Engineering 作为一个新兴领域，学术研究正在快速追赶工
 | **LLM 可靠性与对齐** | Harness 存在的根本原因 | Constitutional AI、RLHF |
 | **自主软件工程** | Harness Engineering 的应用领域 | SWE-bench、SWE-agent |
 | **人机协作** | Harness 的交互设计层 | Human-AI Collaboration in SE |
+| **模型与 Harness 适配** | 通过训练适应 Skills、工具 Schema、提示词和 Hooks 的变化，并固定模型权重评估后续更新 | [Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report](https://arxiv.org/abs/2608.15763) |
 
 ---
 
