@@ -473,6 +473,7 @@ Harness Engineering
 | [**OpenViking**](https://github.com/volcengine/OpenViking) | 火山引擎开源 AI Agent 上下文数据库 | ![Stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square&logo=github) |
 | [**MemOS**](https://github.com/MemTensor/MemOS) | AI 记忆操作系统 — 为智能体提供结构化记忆能力 | ![Stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=flat-square&logo=github) |
 | [**EverMemOS**](https://github.com/EverMind-AI/EverMemOS) | Agent 记忆操作系统 — 长期记忆与经验积累 | ![Stars](https://img.shields.io/github/stars/EverMind-AI/EverMemOS?style=flat-square&logo=github) |
+| [**Hyperconsciousness**](https://github.com/louis030195/hyperconsciousness) | 开发者 Alpha 阶段的加密、仅追加知识存储，通过限定范围且有时效的 MCP 授权提供跨会话上下文 | ![Stars](https://img.shields.io/github/stars/louis030195/hyperconsciousness?style=flat-square&logo=github) |
 
 ### 多智能体编排
 
