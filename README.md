@@ -489,6 +489,7 @@ Harness Engineering
 | [**AI-Infra-Guard**](https://github.com/Tencent/AI-Infra-Guard) | 腾讯 AI 红队平台 — 智能体安全扫描 | ![Stars](https://img.shields.io/github/stars/Tencent/AI-Infra-Guard?style=flat-square&logo=github) |
 | [**clawsec**](https://github.com/prompt-security/clawsec) | Agent 安全技能套件 — Harness 的安全层 | ![Stars](https://img.shields.io/github/stars/prompt-security/clawsec?style=flat-square&logo=github) |
 | [**moltis**](https://github.com/moltis-org/moltis) | Rust 原生智能体运行时 — 沙箱化、安全、可审计 | ![Stars](https://img.shields.io/github/stars/moltis-org/moltis?style=flat-square&logo=github) |
+| [**sofagent**](https://github.com/KongFangXun/sofagent) | 开源（MIT）提交时审计 Harness — 28 条 git diff 规则 + HMAC 审计链 + 快照回滚，commit 前拦截 | ![Stars](https://img.shields.io/github/stars/KongFangXun/sofagent?style=flat-square&logo=github) |
 
 ---
 
